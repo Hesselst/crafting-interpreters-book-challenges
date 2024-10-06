@@ -1,0 +1,3 @@
+C:/Users/hesse/dev/craft_interpreter/challenges/crafting-interpreters-book-challenges/challenges/1/C/chal1_c/cmake-build-debug/CMakeFiles/chal1_c.dir
+C:/Users/hesse/dev/craft_interpreter/challenges/crafting-interpreters-book-challenges/challenges/1/C/chal1_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hesse/dev/craft_interpreter/challenges/crafting-interpreters-book-challenges/challenges/1/C/chal1_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
